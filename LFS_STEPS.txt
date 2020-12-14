@@ -1,0 +1,5 @@
+git lfs install // enable lfs
+git lfs track "*.mp4" // enable file by extension, create a file named .gitattributes, and You can perform add and commit operations as normal. 
+git add springboot1.mp4
+git commit -m "springboot discussion with vinod" 
+git push
